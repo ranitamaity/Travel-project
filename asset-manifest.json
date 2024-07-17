@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Travel-project/static/css/main.73ceb57b.css",
+    "main.js": "/Travel-project/static/js/main.1ecfc296.js",
+    "static/media/video1.mp4": "/Travel-project/static/media/video1.8e77e7b1704f50190e20.mp4",
+    "static/media/video2.mp4": "/Travel-project/static/media/video2.171c1bb1153199b71f60.mp4",
+    "static/media/imag9.jpg": "/Travel-project/static/media/imag9.2c44d676e6f3dd5e3cfa.jpg",
+    "static/media/imag7.jpg": "/Travel-project/static/media/imag7.f520e653369d0f8c5890.jpg",
+    "index.html": "/Travel-project/index.html",
+    "main.73ceb57b.css.map": "/Travel-project/static/css/main.73ceb57b.css.map",
+    "main.1ecfc296.js.map": "/Travel-project/static/js/main.1ecfc296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73ceb57b.css",
+    "static/js/main.1ecfc296.js"
+  ]
+}
